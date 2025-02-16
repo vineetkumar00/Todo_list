@@ -1,4 +1,5 @@
 #Todo_List 
+
 Backend Project
 Overview
 This to-do list application is designed to simplify task management and boost productivity by helping users schedule and track their daily tasks effectively. The project features a robust backend built using Node.js and Express.js, with PostgreSQL as the database for storing tasks. The frontend is powered by Embedded JavaScript (EJS), providing a clean and interactive user experience.
